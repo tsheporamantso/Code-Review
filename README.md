@@ -61,11 +61,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello_World] <a name="about-project"></a>
+# 📖 [Personal Portfolio] <a name="about-project"></a>
 
-This project is about Microverse Linters configuration and ensuring that all linters checks pass, and also add & display a simple HTML text and basic CSS styling.  
+<!-- This project is about Microverse Linters configuration and ensuring that all linters checks pass, and also add & display a simple HTML text and basic CSS styling.   -->
 
-**[Hello_World]** is a simple massage for linter practice
+**[Personal Portfolio]** is a exercise demostrating my ability to review code
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -107,11 +107,11 @@ This project is about Microverse Linters configuration and ensuring that all lin
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+<!-- ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo](https://tsheporamantso.github.io/hello-microverse/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- GETTING STARTED -->
 
@@ -147,7 +147,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:tsheporamantso/Hello_World.git
+  git clone git@github.com:tsheporamantso/Code-Review.git
 ```
 
 
@@ -156,13 +156,13 @@ Example commands:
 Install this project with:
 
 npm
-
+<!-- 
 Example command:
 
 ```sh
   cd my-project
   npm init -y
-```
+``` -->
 
 ### Usage
 
@@ -171,11 +171,11 @@ To run the project, execute the following command:
 npm start or live server
 
 
-Example command:
+<!-- Example command:
 
 ```sh
   GitHub Pages Server
-```
+``` -->
 
 
 ### Run tests
@@ -185,11 +185,11 @@ To run tests, run the following command:
 npm test
 
 
-Example command:
+<!-- Example command:
 
 ```sh
   npx stylelint "**/*.{css,scss}"
-```
+``` -->
 
 
 ### Deployment
@@ -199,11 +199,11 @@ You can deploy this project using:
 GitHub Pages 
 
 
-Example: 
+<!-- Example: 
 
 ```sh
 https://tsheporamantso.github.io/Hello_World/
-```
+``` -->
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -236,7 +236,7 @@ https://tsheporamantso.github.io/Hello_World/
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [https://github.com/tsheporamantso/Hello_World/issues](../../issues/).
+Feel free to check the [https://github.com/tsheporamantso/Code-Review/issues](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -246,7 +246,7 @@ Feel free to check the [https://github.com/tsheporamantso/Hello_World/issues](..
 
 
 
-If you like this project please follow me on github & twitter and also connect on Linkedin.
+If you like this project please follow Mercy Mugambi on github & twitter and also connect on Linkedin.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -254,7 +254,7 @@ If you like this project please follow me on github & twitter and also connect o
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for this exercise. 
+I would like to thank Mercy Mugambi for allowing me to review your project. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
